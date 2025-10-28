@@ -68,6 +68,7 @@ git push -u origin documentacao-colaboracao.
 em seguida adicionei um colaborador 
 Para adicionar um colaborador em um repositório no GitHub, eu abri o repositório e fui até a aba Settings. Dentro das configurações, entrei na opção Collaborators e cliquei em Add collaborator. Depois disso, digitei o nome de usuário ou o e-mail da pessoa que eu queria adicionar e confirmei o convite. O colaborador recebeu uma notificação por e-mail e, ao aceitar, passou a ter acesso ao repositório, podendo clonar o projeto, criar branches, fazer commits e abrir pull requests normalmente. Esse processo é importante para permitir o trabalho em equipe de forma controlada e segura.
 
+<img width="858" height="243" alt="colaboração " src="https://github.com/user-attachments/assets/d395c8e9-a654-48e0-8fa3-92f4ed87cccb" />
 
 
 
